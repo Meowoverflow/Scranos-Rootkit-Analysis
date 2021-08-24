@@ -1,6 +1,6 @@
 # Scranos-Rootkit-Analysis
 
-This was a school project as we ( (Aisha Ahmed)[[https://www.linkedin.com/in/aychaa/](https://www.linkedin.com/in/aychaa/)] and I ) wanted to learn Windows kernel rootkits analysis and Scranos was our first rootkit sample, 
+This was a school project as we ( (Aisha Ahmed) [[https://www.linkedin.com/in/aychaa/](https://www.linkedin.com/in/aychaa/)] and I ) wanted to learn Windows kernel rootkits analysis and Scranos was our first rootkit sample, 
 also we got A+ for this project "Yaaaaaaay 🙌🙌".
 
 Scranos rootkit component has some interesting techniques like:
